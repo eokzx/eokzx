@@ -1,2 +1,60 @@
-# eokzx
+<h1 align="center">Hey 👋 I'm KZX</h1>
+<h3 align="center">FiveM Lua Developer • Front-End Developer • Graphic Designer</h3>
 
+<p align="center">
+  <i>Building immersive FiveM experiences, clean front-ends and strong visuals.<br/>
+  Currently learning back-end development.</i>
+</p>
+
+---
+
+## 🧠 About Me
+- 🎮 **FiveM Lua Developer** – scripts, systems, UI integration
+- 🌐 **Front-End Developer** – modern, responsive interfaces
+- 🎨 **Graphic Designer** – UI, branding, visuals
+- 🧩 **Back-End Learner** – expanding into server-side logic & databases
+- 🚀 Always improving code quality, UX and performance
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Scripting
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+
+### 🎨 Design
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobeillustrator)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eokzx&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eokzx&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🚧 What I'm Working On
+- 🔧 Advanced FiveM systems
+- 🌐 Better front-end architecture
+- 🧠 Learning **back-end** (APIs, databases, server logic)
+- 🎨 High-quality UI/UX for game & web projects
+
+---
+
+## 📫 Contact
+- 💬 Discord: **KZX**
+- 🌍 GitHub: **@eokzx**
+
+<p align="center">
+  <sub>⚡ Clean code • Clean design • Constant progress</sub>
+</p>
