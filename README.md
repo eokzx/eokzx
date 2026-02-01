@@ -54,7 +54,7 @@
 ---
 
 ## 📫 Contact
-- 💬 Discord: **KZX**
+- 💬 Discord: **realkzx**
 - 🌍 GitHub: **@eokzx**
 
 <p align="center">
