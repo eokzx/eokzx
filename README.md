@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm KZX</h1>
+<h1 align="center">Hello 👋 I'm KZX</h1>
 <h3 align="center">FiveM Lua Developer • Front-End Developer • Graphic Designer • IT Support</h3>
 
 
