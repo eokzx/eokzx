@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋 I'm KZX</h1>
-<h3 align="center">FiveM Lua Developer • Front-End Developer • Graphic Designer</h3>
+<h3 align="center">FiveM Lua Developer • Front-End Developer • Graphic Designer • IT Support</h3>
+
 
 <p align="center">
   <i>Building immersive FiveM experiences, clean front-ends and strong visuals.<br/>
@@ -12,6 +13,7 @@
 - 🎮 **FiveM Lua Developer** – scripts, systems, UI integration
 - 🌐 **Front-End Developer** – modern, responsive interfaces
 - 🎨 **Graphic Designer** – UI, branding, visuals
+- 🖥️ **IT Support** – troubleshooting, system maintenance, user support
 - 🧩 **Back-End Learner** – expanding into server-side logic & databases
 - 🚀 Always improving code quality, UX and performance
 
