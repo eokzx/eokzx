@@ -17,7 +17,7 @@
 - 📱 React, Next.js Developer - web applications, advanced systems for companies. 
 - 🎨 Graphic Designer – UI, branding, visuals  
 - 🖥️ IT Support – troubleshooting, system maintenance  
-- 🧩 Back-End Learner – APIs, databases, server logic  
+- 🧩 Back-End Developer – APIs, databases, server logic  
 - 🚀 Focused on clean code, UX and performance  
 
 ---
