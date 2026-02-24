@@ -14,7 +14,7 @@
 
 - 🎮 FiveM Lua Developer – scripts, systems, UI integration  
 - 🌐 Front-End Developer – modern, responsive interfaces
-- 📱 React, Next.js Developer - mobile applications, advanced systems for companies. 
+- 📱 React, Next.js Developer - web applications, advanced systems for companies. 
 - 🎨 Graphic Designer – UI, branding, visuals  
 - 🖥️ IT Support – troubleshooting, system maintenance  
 - 🧩 Back-End Learner – APIs, databases, server logic  
