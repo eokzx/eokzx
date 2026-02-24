@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm KZX</h1>
-<h3 align="center">FiveM Lua Developer • Front-End Developer • Graphic Designer • IT Support</h3>
+<h3 align="center">FiveM Lua Developer • Fullstack Web Developer • Graphic Designer • IT Support</h3>
 
 <p align="center">
   <i>
@@ -13,7 +13,8 @@
 ## 🧠 About Me
 
 - 🎮 FiveM Lua Developer – scripts, systems, UI integration  
-- 🌐 Front-End Developer – modern, responsive interfaces  
+- 🌐 Front-End Developer – modern, responsive interfaces
+- 📱 React, Next.js Developer - mobile applications, advanced systems for companies. 
 - 🎨 Graphic Designer – UI, branding, visuals  
 - 🖥️ IT Support – troubleshooting, system maintenance  
 - 🧩 Back-End Learner – APIs, databases, server logic  
@@ -50,7 +51,8 @@
 ## 📫 Contact
 
 - 💬 Discord: **realkzx**  
-- 🌍 GitHub: **@eokzx**
+- 🌍 GitHub: **@eokzx
+**
 
 <p align="center">
   <sub>⚡ Clean code • Clean design • Constant progress</sub>
