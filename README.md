@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm KZX</h1>
-<h3 align="center">FiveM Lua Developer • Fullstack Web Developer • Graphic Designer • IT Support</h3>
+<h3 align="center">Lua Developer • Fullstack Web Developer • Graphic Designer • IT Support</h3>
 
 <p align="center">
   <i>
