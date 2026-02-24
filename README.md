@@ -41,15 +41,19 @@
 
 ## 🚧 What I'm Working On
 
-- 🔧 Advanced FiveM systems  
-- 🌐 Better front-end architecture  
-- 🧠 Learning back-end (APIs, databases, server logic)  
-- 🎨 High-quality UI/UX for game & web projects  
+- 🔧 Advanced Web systems  
+- 🌐 Better web (front-end, back-end) architecture  
+- 🔒 Securing web (DDoS, DoS, SQL inject etc.)
+- 🔧 Creating back-end, and integrations (databases, bigger projects)
+- ⭐ Automatiozation systems for companies.
+- 🤖 AI Systems (Creating advanced systems with AI built in)
+- 🎨 High-quality UI/UX for web projects and etc.
+
 
 ---
 
 ## 📫 Contact
-
+  **WORKING ONLY FOR MONEY**
 - 💬 Discord: **realkzx**  
 - 🌍 GitHub: **@eokzx
 **
