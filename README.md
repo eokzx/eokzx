@@ -3,8 +3,8 @@
 
 <p align="center">
   <i>
-    Building immersive FiveM experiences, clean front-ends and strong visuals.<br/>
-    Currently learning back-end development.
+    Building immersive Web experiences, clean architecture and strong visuals.<br/>
+    Currently working at SCALVEX Project.
   </i>
 </p>
 
