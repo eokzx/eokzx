@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,lua,js,html,css,ai,ps,git,vscode,react,vue,nextjs,nodejs,sqllite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,lua,python,js,html,css,ai,ps,git,vscode,react,vue,nextjs,nodejs,sqllite&theme=dark" />
 </p>
 
 ---
