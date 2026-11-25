@@ -4,7 +4,7 @@
 <p align="center">
   <i>
     Building immersive Web experiences, clean architecture and strong visuals.<br/>
-    Currently working at SCALVEX Project.
+    Just chilling.
   </i>
 </p>
 
